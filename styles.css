@@ -1,0 +1,54 @@
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 20%;
+  }
+
+  .title {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 20%;
+  }
+
+  .sub {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 24%;
+
+    font-family: "Times New Roman", Times, serif;
+    font-size: 20px;
+    font-style: italic;
+  }
+
+  .text {
+
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 24%;
+
+    width: 800px;
+    height: 150px;
+
+    font-family: "Times New Roman", Times, serif;
+    font-size: 20px;
+    
+  }
+
+  .button {
+    background-color: #6B5B95; 
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+
+    font-family: "Times New Roman", Times, serif;
+    font-size: 20px;
+
+    width: 20%;
+  }
